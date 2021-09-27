@@ -1,0 +1,8 @@
+__pychache__
+*.pyc
+*.code-workspace
+backup
+checkpoint_*
+data/__pychache__
+data/pretrain_dataset/*/
+test_code

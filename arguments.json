@@ -1,0 +1,9 @@
+{
+    "checkpoint_path": "checkpoint_03",
+    "summary_interval": 512,
+    "checkpoint_interval": 8192,
+    "validation_interval": 4096,
+    "stage": 1,
+    "stage_training_epochs": [2000, 2300, 2500],
+    "restore_checkpoint": true
+}
