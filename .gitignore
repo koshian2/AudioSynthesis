@@ -3,6 +3,7 @@ __pychache__
 *.code-workspace
 backup
 checkpoint_*
+cp_style_melgan*
 data/__pychache__
 data/pretrain_dataset/*/
 test_code
